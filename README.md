@@ -1,2 +1,3 @@
 # current-and-temperature-monitoring-WiFi-MQTT-ESP8266
-current, temperature and speed monitoring project for electric motors with esp 8266 and arduino IDE
+Projeto sobre monitoramento de corrente, velocidade e temperatura para motores elétricos através do micro controlador ESP8266.
+Projeto em desenvolvimento para projeto universitário
