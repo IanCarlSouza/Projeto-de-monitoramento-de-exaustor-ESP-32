@@ -11,11 +11,11 @@
 #include <Adafruit_BMP280.h>
 
 // Configuração da rede WiFi
-const char* ssid = "ian";
-const char* password = "ian30052001";
+const char* ssid = "";
+const char* password = "";
 
 // Configuração do MQTT
-const char* broker = "192.168.190.167";
+const char* broker = "";
 const char* client_id = "ESP32";
 const int mqttPort = 1883;
 
